@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+.count span {
+  font-size: xx-large;
+  font-weight: 500;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
